@@ -1,0 +1,5 @@
+PRIVATE_KEY=0x
+RPC_MAINNET=https://arb-pokt.nodies.app
+RPC_TESTNET=https://arbitrum-sepolia.blockpi.network/v1/rpc/public	
+SCAN=TCYTMBM5QHEN79YDWQPQTWTHDE2534XD7Z
+GAS_PRICE_MAINNET=20000000000
